@@ -30,3 +30,12 @@ local variables are defined in the {} brackets of the function
 pinMode is a function built into the Arduino IDE
 
 Blink different LEDS at different rates with an Arduino? 
+
+Field-Effect Transistors 
+Jfet & Mosfet 
+John Bardeen and Walter Braton 
+Prototype is recognized 
+
+EMitter
+Base
+Collector 
