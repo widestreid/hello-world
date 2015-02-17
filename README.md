@@ -39,3 +39,22 @@ Prototype is recognized
 EMitter
 Base
 Collector 
+
+int count = 0 (this is considered a variable) 
+the keyword "static" means that the variable is only initiated the first time the function is run
+
+int centToFaren (int c) 
+{
+int f = c * 9 / 5 + 32;
+return f
+}
+
+This function could be called by something like the following 
+int pleasantTemp = centToFaren(20);
+
+Any non void function must have the "return" statement included 
+anytime you introduce a variable, you must state int are there also strings?
+
+boolean operators 
+&& means and
+|| means or 
