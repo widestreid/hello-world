@@ -9,3 +9,8 @@ Do I recognize all the changes
 Are files that 
 
 chris@lablackey.com
+have to do 
+
+git add notes.txt
+git commit -m "message"
+git push 
