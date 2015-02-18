@@ -1,0 +1,11 @@
+chriscanley.github.io/intro-to-github/
+
+Edits
+commands "git status"
+
+Do I recognize all the changes
+"git dif "file"" 
+
+Are files that 
+
+chris@lablackey.com
